@@ -20,7 +20,7 @@ import org.json.JSONObject;
 public class Test {
 	
 /**
- * 	objeto tipo String que contiene la solicitud formato JSON ( proporciona a la api el partnerGUID,el userCode 
+ * 	objeto tipo String que contiene la solicitud en  formato JSON ( proporciona a la api el partnerGUID,el userCode 
  *  y el id de la encuesta solicitada
  */
 	private static String json = "{\r\n" + "    \"pdRequest\": {\r\n"
